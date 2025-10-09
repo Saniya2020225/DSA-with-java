@@ -1,5 +1,6 @@
 public class String10 {
     public static void main(String[] args) {
+        //reverse string
         StringBuilder sb = new StringBuilder("hello");
 
         for(int i=0 ; i<sb.length()/2 ; i++){

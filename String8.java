@@ -20,5 +20,8 @@ public class String8 {
         sb.delete(2, 3);
         System.out.println(sb);
         
+        //append the 's'
+        sb.append("s");
+        System.out.println(sb);
     }
 }
